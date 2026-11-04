@@ -1,1 +1,2 @@
-print("Haaaiiiii")
+a = 10
+b = 20
